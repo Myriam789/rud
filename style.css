@@ -1,0 +1,17 @@
+header {
+    display:flex;
+    justify-content: space-around;
+    width: 400px;
+}
+
+.first {
+    font-family: "Oswald", "sans-serif";
+    margin-left: 100px;
+}
+body {
+    front-family: Arial, sans-serif;
+}
+
+.landing-page, .video {
+    text-align: center;
+}
